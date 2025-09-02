@@ -30,11 +30,13 @@ EduVoice aims to help:
 
 | Layer        | Tech Used                     |
 |--------------|-------------------------------|
-| Frontend     | React.js, Tailwind CSS        |
-| Backend      | Node.js + Express             |
+| Frontend     | React.js, Tailwind CSS, HTML  |
+| Backend      | Node.js + Express.js          |
 | Voice Input  | Web Speech API / Browser STT  |
 | Story Gen    | Google Gemini                 |
 | TTS Output   | MURF AI TTS API               |
 | DataBase     | MongoDB                       |
 
 ---
+
+
